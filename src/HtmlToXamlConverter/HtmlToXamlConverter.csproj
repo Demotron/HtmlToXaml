@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Authors>Dmitriy Polianskiy</Authors>
+    <Company />
+    <Product>HtmlToXaml Converter</Product>
+    <Description>XAML FlowDocument to HTML Conversion Prototype from http://blogs.msdn.com/b/wpfsdk/archive/2006/05/25/xaml-flowdocument-to-html-conversion-prototype.aspx</Description>
+    <RepositoryUrl>https://github.com/Demotron/HtmlToXaml</RepositoryUrl>
+    <PackageTags>net core htmltoxaml converter</PackageTags>
+    <PackageId>HtmlToXaml</PackageId>
+    <PackageProjectUrl>https://github.com/Demotron/HtmlToXaml</PackageProjectUrl>
+    <AssemblyName>HtmlToXaml</AssemblyName>
+    <RootNamespace>HtmlToXaml</RootNamespace>
+  </PropertyGroup>
+
+</Project>
