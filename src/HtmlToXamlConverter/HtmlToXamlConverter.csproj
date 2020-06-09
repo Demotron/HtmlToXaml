@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -13,11 +13,11 @@
     <PackageProjectUrl>https://github.com/Demotron/HtmlToXaml</PackageProjectUrl>
     <AssemblyName>HtmlToXaml</AssemblyName>
     <RootNamespace>HtmlToXaml</RootNamespace>
-    <PackageLicenseFile>license.txt</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="license.txt">
+    <None Include="..\..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
